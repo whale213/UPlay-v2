@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\public",
+    "\\server",
+    "\\server\\Controllers",
+    "\\server\\models"
+  ],
+  "SelectedNode": "\\server\\models\\AddFaq.cs",
+  "PreviewInSolutionExplorer": false
+}
